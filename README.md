@@ -8,15 +8,15 @@
 <br>
 
 <!--  TOPIC PILLS  -->
-<img src="https://img.shields.io/badge/LORENZ-0d1f35?style=for-the-badge&color=0d1f35" alt=""/>
+<span style="background: #0d1f35; border: 1px solid #1e3a5f; color: #7eb8f7; padding: 6px 16px; border-radius: 20px; font-size: 0.8em; font-family: monospace;">LORENZ</span>
 &nbsp;
-<img src="https://img.shields.io/badge/MANDELBROT-1a0d35?style=for-the-badge&color=1a0d35" alt=""/>
+<span style="background: #1a0d35; border: 1px solid #3a1f6a; color: #a78bfa; padding: 6px 16px; border-radius: 20px; font-size: 0.8em; font-family: monospace;">MANDELBROT</span>
 &nbsp;
-<img src="https://img.shields.io/badge/JULIA%20SETS-0d2a25?style=for-the-badge&color=0d2a25" alt=""/>
+<span style="background: #0d2a25; border: 1px solid #1a4a3a; color: #67e8c0; padding: 6px 16px; border-radius: 20px; font-size: 0.8em; font-family: monospace;">JULIA SETS</span>
 &nbsp;
-<img src="https://img.shields.io/badge/BIFURCATION-2a1f0d?style=for-the-badge&color=2a1f0d" alt=""/>
+<span style="background: #2a1f0d; border: 1px solid #4a3a1a; color: #f7c873; padding: 6px 16px; border-radius: 20px; font-size: 0.8em; font-family: monospace;">BIFURCATION</span>
 &nbsp;
-<img src="https://img.shields.io/badge/LYAPUNOV-2a0d1f?style=for-the-badge&color=2a0d1f" alt=""/>
+<span style="background: #2a0d1f; border: 1px solid #4a1a35; color: #f472b6; padding: 6px 16px; border-radius: 20px; font-size: 0.8em; font-family: monospace;">LYAPUNOV</span>
 
 <br><br>
 
@@ -60,10 +60,10 @@
 <br>
 
 <!-- SECTION 01 -->
-<table><tr><td width="4px" bgcolor="#7eb8f7"></td><td>
-<sub><code>§ 01 · THE BUTTERFLY EFFECT</code></sub><br>
-<h3>🦋 The Lorenz Attractor</h3>
-</td></tr></table>
+<div style="background: linear-gradient(90deg, #0d1f35, #0a0e1a); padding: 20px 28px; border-radius: 10px; border-left: 4px solid #7eb8f7; margin: 20px 0;">
+<p style="color: #3a5f8a; font-family: monospace; font-size: 0.8em; letter-spacing: 3px; margin: 0 0 4px 0;">§ 01 · THE BUTTERFLY EFFECT</p>
+<h3 style="color: #7eb8f7; margin: 0; font-size: 1.4em;">🦋 The Lorenz Attractor</h3>
+</div>
 
 > *"Predictability: Does the Flap of a Butterfly's Wings in Brazil Set Off a Tornado in Texas?"*
 > — **Edward Lorenz, 1972**
@@ -85,10 +85,10 @@ These never repeat. Never settle. They trace an **eternal butterfly** through ph
 <br>
 
 <!-- SECTION 02 -->
-<table><tr><td width="4px" bgcolor="#a78bfa"></td><td>
-<sub><code>§ 02 · A MENAGERIE OF STRANGE ATTRACTORS</code></sub><br>
-<h3>🌀 Strange Attractor Gallery</h3>
-</td></tr></table>
+<div style="background: linear-gradient(90deg, #1a0d35, #0a0e1a); padding: 20px 28px; border-radius: 10px; border-left: 4px solid #a78bfa; margin: 20px 0;">
+<p style="color: #4a2a8a; font-family: monospace; font-size: 0.8em; letter-spacing: 3px; margin: 0 0 4px 0;">§ 02 · A MENAGERIE OF STRANGE ATTRACTORS</p>
+<h3 style="color: #a78bfa; margin: 0; font-size: 1.4em;">🌀 Strange Attractor Gallery</h3>
+</div>
 
 The Lorenz system is just the beginning. A **zoo of strange attractors** exists — each with its own geometry, its own fractal dimension, its own brand of infinite complexity.
 
@@ -107,10 +107,10 @@ The Lorenz system is just the beginning. A **zoo of strange attractors** exists 
 <br>
 
 <!-- SECTION 03 -->
-<table><tr><td width="4px" bgcolor="#67e8c0"></td><td>
-<sub><code>§ 03 · THE ROAD TO CHAOS</code></sub><br>
-<h3>📊 The Bifurcation Diagram</h3>
-</td></tr></table>
+<div style="background: linear-gradient(90deg, #0d2a20, #0a0e1a); padding: 20px 28px; border-radius: 10px; border-left: 4px solid #67e8c0; margin: 20px 0;">
+<p style="color: #1a5a40; font-family: monospace; font-size: 0.8em; letter-spacing: 3px; margin: 0 0 4px 0;">§ 03 · THE ROAD TO CHAOS</p>
+<h3 style="color: #67e8c0; margin: 0; font-size: 1.4em;">📊 The Bifurcation Diagram</h3>
+</div>
 
 ```
 x₍ₙ₊₁₎ = r · xₙ · (1 − xₙ)
@@ -133,10 +133,10 @@ r > 3.57  →  CHAOS                     (∞ complexity)
 <br>
 
 <!-- SECTION 04 -->
-<table><tr><td width="4px" bgcolor="#a78bfa"></td><td>
-<sub><code>§ 04 · THE MOST COMPLEX OBJECT IN MATHEMATICS</code></sub><br>
-<h3>∞ The Mandelbrot Set</h3>
-</td></tr></table>
+<div style="background: linear-gradient(90deg, #1a0d35, #0a0e1a); padding: 20px 28px; border-radius: 10px; border-left: 4px solid #a78bfa; margin: 20px 0;">
+<p style="color: #4a2a8a; font-family: monospace; font-size: 0.8em; letter-spacing: 3px; margin: 0 0 4px 0;">§ 04 · THE MOST COMPLEX OBJECT IN MATHEMATICS</p>
+<h3 style="color: #a78bfa; margin: 0; font-size: 1.4em;">∞ The Mandelbrot Set</h3>
+</div>
 
 ```
 z₍ₙ₊₁₎ = zₙ² + c
@@ -159,10 +159,10 @@ Max iterations used  =  1,024 per pixel
 <br>
 
 <!-- SECTION 05 -->
-<table><tr><td width="4px" bgcolor="#f472b6"></td><td>
-<sub><code>§ 05 · JULIA SETS — A FAMILY OF FRACTALS</code></sub><br>
-<h3>🔮 Julia Set Gallery</h3>
-</td></tr></table>
+<div style="background: linear-gradient(90deg, #2a0d1f, #0a0e1a); padding: 20px 28px; border-radius: 10px; border-left: 4px solid #f472b6; margin: 20px 0;">
+<p style="color: #6a1a40; font-family: monospace; font-size: 0.8em; letter-spacing: 3px; margin: 0 0 4px 0;">§ 05 · JULIA SETS — A FAMILY OF FRACTALS</p>
+<h3 style="color: #f472b6; margin: 0; font-size: 1.4em;">🔮 Julia Set Gallery</h3>
+</div>
 
 The Mandelbrot set is a **catalogue** of Julia sets. For every point `c`, a different fractal universe:
 
@@ -181,10 +181,10 @@ The Mandelbrot set is a **catalogue** of Julia sets. For every point `c`, a diff
 <br>
 
 <!-- SECTION 06 -->
-<table><tr><td width="4px" bgcolor="#f7c873"></td><td>
-<sub><code>§ 06 · MEASURING CHAOS</code></sub><br>
-<h3>🌡️ Lyapunov Fractals</h3>
-</td></tr></table>
+<div style="background: linear-gradient(90deg, #1f1a0d, #0a0e1a); padding: 20px 28px; border-radius: 10px; border-left: 4px solid #f7c873; margin: 20px 0;">
+<p style="color: #5a4a1a; font-family: monospace; font-size: 0.8em; letter-spacing: 3px; margin: 0 0 4px 0;">§ 06 · MEASURING CHAOS</p>
+<h3 style="color: #f7c873; margin: 0; font-size: 1.4em;">🌡️ Lyapunov Fractals</h3>
+</div>
 
 ```
 λ = lim(n→∞) (1/n) Σ ln|f′(xᵢ)|
@@ -201,10 +201,10 @@ The **Zircon City** Lyapunov fractal maps λ across a 900×900 parameter grid �
 <br>
 
 <!-- SECTION 07 -->
-<table><tr><td width="4px" bgcolor="#7eb8f7"></td><td>
-<sub><code>§ 07 · ANIMATION — THE BUTTERFLY IN MOTION</code></sub><br>
-<h3>🎬 Animated Lorenz Attractor</h3>
-</td></tr></table>
+<div style="background: linear-gradient(90deg, #0d1f35, #0a0e1a); padding: 20px 28px; border-radius: 10px; border-left: 4px solid #7eb8f7; margin: 20px 0;">
+<p style="color: #3a5f8a; font-family: monospace; font-size: 0.8em; letter-spacing: 3px; margin: 0 0 4px 0;">§ 07 · ANIMATION — THE BUTTERFLY IN MOTION</p>
+<h3 style="color: #7eb8f7; margin: 0; font-size: 1.4em;">🎬 Animated Lorenz Attractor</h3>
+</div>
 
 A 200-frame rotating animation of the Lorenz attractor. The **gold dot** traces the current position. The **blue trail** shows where it has been. The camera slowly rotates to reveal the full 3D geometry.
 
@@ -220,21 +220,13 @@ A 200-frame rotating animation of the Lorenz attractor. The **gold dot** traces 
 >
 > [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nachikettalekar/the-art-of-chaos-dynamical-systems-fractals)
 
-> ⚠️ **NOTE — If the animation doesn't play or render when running all cells:**
-> The GIF rendering can be heavy depending on your machine or environment.
-> **Run this cell individually on its own** in your local Jupyter notebook for the best experience.
-> Simply click on the animation cell and press `Shift + Enter` to run it alone.
->
-> 🌐 **Alternatively, view the fully pre-rendered animation and all outputs on the live Kaggle notebook:**
-> **[👉 The Art of Chaos — Live on Kaggle](https://www.kaggle.com/code/nachikettalekar/the-art-of-chaos-dynamical-systems-fractals)**
-
 <br>
 
 <!-- SECTION 08 -->
-<table><tr><td width="4px" bgcolor="#67e8c0"></td><td>
-<sub><code>§ 08 · POINCARÉ SECTIONS</code></sub><br>
-<h3>🔬 Poincaré Sections</h3>
-</td></tr></table>
+<div style="background: linear-gradient(90deg, #0d2a20, #0a0e1a); padding: 20px 28px; border-radius: 10px; border-left: 4px solid #67e8c0; margin: 20px 0;">
+<p style="color: #1a5a40; font-family: monospace; font-size: 0.8em; letter-spacing: 3px; margin: 0 0 4px 0;">§ 08 · POINCARÉ SECTIONS</p>
+<h3 style="color: #67e8c0; margin: 0; font-size: 1.4em;">🔬 Poincaré Sections</h3>
+</div>
 
 A Poincaré section slices the 3D trajectory with a 2D plane — like an MRI scan of the attractor:
 
