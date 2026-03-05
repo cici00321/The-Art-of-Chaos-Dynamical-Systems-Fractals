@@ -3,7 +3,7 @@
 <br>
 
 <!--  MAIN BANNER  -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080b14,30:0f1729,60:1a0a2e,100:4c1d95&height=220&section=header&text=The%20Art%20of%20Chaos&fontSize=68&fontColor=a78bfa&fontAlignY=40&desc=A%20Visual%20Journey%20Through%20Dynamical%20Systems%20%26%20Fractals&descAlignY=62&descColor=5a7a9a&descSize=17&animation=fadeIn"/>
+<img width="100%" src="banner.png" alt="The Art of Chaos"/>
 
 <br>
 
