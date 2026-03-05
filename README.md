@@ -3,20 +3,20 @@
 <br>
 
 <!--  MAIN BANNER  -->
-<img width="100%" src="assets/banner.png" alt="The Art of Chaos"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080b14,30:0f1729,60:1a0a2e,100:4c1d95&height=220&section=header&text=The%20Art%20of%20Chaos&fontSize=68&fontColor=a78bfa&fontAlignY=40&desc=A%20Visual%20Journey%20Through%20Dynamical%20Systems%20%26%20Fractals&descAlignY=62&descColor=5a7a9a&descSize=17&animation=fadeIn"/>
 
 <br>
 
 <!--  TOPIC PILLS  -->
-<span style="background: #0d1f35; border: 1px solid #1e3a5f; color: #7eb8f7; padding: 6px 16px; border-radius: 20px; font-size: 0.8em; font-family: monospace;">LORENZ</span>
+<img src="https://img.shields.io/badge/LORENZ-0d1f35?style=for-the-badge&color=0d1f35" alt=""/>
 &nbsp;
-<span style="background: #1a0d35; border: 1px solid #3a1f6a; color: #a78bfa; padding: 6px 16px; border-radius: 20px; font-size: 0.8em; font-family: monospace;">MANDELBROT</span>
+<img src="https://img.shields.io/badge/MANDELBROT-1a0d35?style=for-the-badge&color=1a0d35" alt=""/>
 &nbsp;
-<span style="background: #0d2a25; border: 1px solid #1a4a3a; color: #67e8c0; padding: 6px 16px; border-radius: 20px; font-size: 0.8em; font-family: monospace;">JULIA SETS</span>
+<img src="https://img.shields.io/badge/JULIA%20SETS-0d2a25?style=for-the-badge&color=0d2a25" alt=""/>
 &nbsp;
-<span style="background: #2a1f0d; border: 1px solid #4a3a1a; color: #f7c873; padding: 6px 16px; border-radius: 20px; font-size: 0.8em; font-family: monospace;">BIFURCATION</span>
+<img src="https://img.shields.io/badge/BIFURCATION-2a1f0d?style=for-the-badge&color=2a1f0d" alt=""/>
 &nbsp;
-<span style="background: #2a0d1f; border: 1px solid #4a1a35; color: #f472b6; padding: 6px 16px; border-radius: 20px; font-size: 0.8em; font-family: monospace;">LYAPUNOV</span>
+<img src="https://img.shields.io/badge/LYAPUNOV-2a0d1f?style=for-the-badge&color=2a0d1f" alt=""/>
 
 <br><br>
 
@@ -310,7 +310,7 @@ Feigenbaum's constant is universal. The road to chaos has a structure as precise
 
 <div align="center">
 
-<img width="100%" src="assets/footer.png" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:1a0a2e,100:080b14&height=140&section=footer&text=Built%20with%20Python%20%C2%B7%20NumPy%20%C2%B7%20SciPy%20%C2%B7%20Matplotlib%20%C2%B7%20Love%20for%20Mathematics&fontSize=13&fontColor=2a4060&fontAlignY=60&animation=fadeIn"/>
 
 <br>
 
